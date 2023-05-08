@@ -1,4 +1,4 @@
-package async
+package golimit
 
 type Limiter interface {
 	Reserve()
